@@ -3,7 +3,6 @@
 #include<string>
 #include<regex>
 #include<unordered_map>
-#include<vector>
 
 int main()
 {
